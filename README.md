@@ -2,42 +2,34 @@
 
 <div align="center">
 
-# 👋 Hi, I'm Sanjai Ram
+<img src="https://raw.githubusercontent.com/Sanjai-568/Sanjai-568/main/profile.jpg" width="160" height="160" style="border-radius:50%;" alt="Sanjai Ram's Profile Photo"/>
+
+# Hi, I'm Sanjai Ram 👋
 
 ### Software Developer | Full-Stack Developer | Cloud Security Enthusiast
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=3498DB&center=true&vCenter=true&width=650&lines=Building+Web+Applications;Exploring+Cloud+Security;Java+%7C+React+%7C+Spring+Boot;Turning+Ideas+Into+Software" alt="Typing SVG" />
-</p>
+Building practical applications and exploring modern software technologies.
 
-<p>
-  <a href="https://github.com/Sanjai-568">
-    <img src="https://img.shields.io/badge/GitHub-Sanjai--568-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-  <img src="https://img.shields.io/badge/Focus-Software%20Development-3498DB?style=for-the-badge" alt="Focus"/>
-  <img src="https://img.shields.io/badge/Interest-Cloud%20Security-2ECC71?style=for-the-badge" alt="Cloud Security"/>
-</p>
+<a href="https://github.com/Sanjai-568">
+  <img src="https://img.shields.io/badge/GitHub-Sanjai--568-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
 
 </div>
 
 ---
 
-<!-- ================= ABOUT ME ================= -->
-
 ## 👨‍💻 About Me
 
-I'm an Information Technology student at **Sri Krishna College of Technology, Coimbatore**, interested in software engineering, full-stack development, and cloud security.
+I'm pursuing a B.Tech in Information Technology at Sri Krishna College of Technology, Coimbatore.
 
-* 🎓 Pursuing B.Tech in Information Technology.
-* 💻 Developing applications using Java, React, and Spring Boot.
-* ☁️ Exploring Cloud Security Posture Management (CSPM).
-* 🔐 Interested in secure application development and cloud infrastructure security.
-* 🧠 Practicing data structures, algorithms, and problem-solving.
-* 🚀 Focused on building practical projects and improving my software engineering skills.
-
-**My goal:** To build reliable, secure, and useful software that solves real-world problems.
+* 💻 Interested in Java, React, and full-stack development.
+* 🛠️ Building practical web applications.
+* 🔍 Exploring bug analysis and software quality.
+* 🧠 Practicing programming and problem-solving.
+* 🚀 Focused on developing reliable, maintainable software.
 
 ---
+
 
 <!-- ================= TECH STACK ================= -->
 
@@ -72,6 +64,72 @@ I'm an Information Technology student at **Sri Krishna College of Technology, Co
 <!-- ================= FEATURED PROJECTS ================= -->
 
 ## 🚀 Featured Projects
+## 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏋️ Gym Membership
+
+A project focused on gym membership management.
+
+**Repository:** [Gym_membership](https://github.com/Sanjai-568/Gym_membership)
+
+<a href="https://github.com/Sanjai-568/Gym_membership">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" alt="View Gym Membership Repository"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🐞 Bug Analyser
+
+A project focused on bug analysis and software debugging.
+
+**Repository:** [Bug_Anlayser](https://github.com/Sanjai-568/Bug_Anlayser)
+
+<a href="https://github.com/Sanjai-568/Bug_Anlayser">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" alt="View Bug Analyser Repository"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 💻 Project 3
+
+Add the name and description of another completed project here.
+
+**Technologies:** Add your actual technologies.
+
+<a href="https://github.com/Sanjai-568?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore%20Projects-3498DB?style=for-the-badge&logo=github" alt="Explore Projects"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 Project 4
+
+Add another project, such as a completed web application or Java application.
+
+**Technologies:** Add your actual technologies.
+
+<a href="https://github.com/Sanjai-568?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore%20Projects-3498DB?style=for-the-badge&logo=github" alt="Explore Projects"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+</div>
+
 
 ### 🔐 Cloud Security Posture Management (CSPM)
 
