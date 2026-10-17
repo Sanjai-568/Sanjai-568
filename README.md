@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Sanjai-568/Sanjai-568/main/profile.jpg" width="160" height="160" style="border-radius:50%;" alt="Sanjai Ram's Profile Photo"/>
+
 
 # Hi, I'm Sanjai Ram 👋
 
